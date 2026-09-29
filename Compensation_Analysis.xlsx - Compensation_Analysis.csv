@@ -1,0 +1,29 @@
+Job Level,Gender Category,mean,median,count
+Entry Level,Men,476334.7019,476177.2,84
+Entry Level,Non-binary,455485.31,456622.24,6
+Entry Level,Prefer Not to Say,504223.44,502282.93,4
+Entry Level,Women,467643.6811,462282.7,93
+Junior,Men,678804.8889,683182.24,92
+Junior,Non-binary,689952.6867,695093.75,6
+Junior,Prefer Not to Say,681419.7133,676564.8,9
+Junior,Women,677395.8393,670779.26,85
+Leadership,Men,4691028.286,4695470.75,20
+Leadership,Non-binary,4876852.68,4876852.68,1
+Leadership,Prefer Not to Say,4459902.63,4459902.63,2
+Leadership,Women,4645696.795,4715794.48,22
+Manager,Men,2094913.749,2113542.84,74
+Manager,Non-binary,2121629.38,2121629.38,1
+Manager,Prefer Not to Say,2152589.276,2161572.38,5
+Manager,Women,2080429.192,2069232.66,58
+Mid-Level,Men,971955.0343,971248.56,157
+Mid-Level,Non-binary,998658.19,963943.18,4
+Mid-Level,Prefer Not to Say,954340.4383,961000.26,12
+Mid-Level,Women,980842.4474,980100.33,138
+Senior,Men,1442074.833,1433887.62,117
+Senior,Non-binary,1395373.6,1354983.97,4
+Senior,Prefer Not to Say,1468688.725,1458953.18,13
+Senior,Women,1432024.666,1431942.98,102
+Senior Manager,Men,2888736.938,2882093.36,53
+Senior Manager,Non-binary,2996805.585,2984588.16,4
+Senior Manager,Prefer Not to Say,2824691.923,2798462.04,7
+Senior Manager,Women,2900396.121,2894090.42,27
